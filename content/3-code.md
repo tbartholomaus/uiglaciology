@@ -143,3 +143,20 @@ To get around the problem of hanging up on a process, 1) run the script directly
 
 # Geographic information systems (GIS)
 [QGIS](https://www.qgis.org/en/site/) is a great tool for working with spatial data, like rasters and shapefiles.  It's free and has a lot of capability.
+
+# Using Kennicott
+
+## Accessing Kennicott through a web browser
+
+1. In a web browser, navigate to https://kennicott.ibest.uidaho.edu/vnc
+2. Click "Connect" in the center of the page. 
+3. From the dropdown menu, choose "Other..."
+4. In the next box, enter your username without the @kennicott... suffix (for example, I would enter `cmiele`).
+5. Enter your password and hit "Log in." 
+
+This will take you to a desktop-style interface with Kennicott. By clicking the black square icon at the bottom ("Terminal Emulator"), you can now access Kennicott through the command line. 
+
+## Coding in Kennicott
+
+To access a Python interface like Spyder or Jupyter Lab, first specify an environment. It may be useful to clone one of Kennicott's existing environments and work from that cloned environment. This way, you're free to modify (or even break) your own cloned environment without impacting anyone else. For example, rather than using the environment "spatialenv_yml," I have created a clone of this environment, named "chrisenv." Now each time I log onto Kennicott, I write `source activate chrisenv` to activate this environment. Typing `spyder` then opens a Spyder interface, from which you can write, run, and save scripts. 
+
