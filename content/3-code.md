@@ -11,7 +11,6 @@ A table of contents for this page includes:
   + [Environments: internally consistent sets of python modules](https://tbartholomaus.github.io/uiglaciology/3-code#environments-internally-consistent-sets-of-python-modules)
   + [Preferred python interface](https://tbartholomaus.github.io/uiglaciology/3-code#preferred-python-interface)
   + [Keeping a script running overnight (or other long periods)](https://tbartholomaus.github.io/uiglaciology/3-code#keeping-a-script-running-overnight-or-other-long-periods)
-  + [Helpful native Python functions](https://tbartholomaus.github.io/uiglaciology/3-code#helpful-native-python-functions)
 + [Geographic information systems (GIS)](https://tbartholomaus.github.io/uiglaciology/3-code#geographic-information-systems-gis)
 
 # Python
@@ -84,79 +83,17 @@ To get around the problem of hanging up on a process, 1) run the script directly
 
 
 
-## Helpful native Python functions
-
-1. Loop Functions: useful when using `for` loops
-- `zip`
-
-  zip function zips two lists of the same length together so that you can iterate through both at the same time.  This function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc as you can zip these together and just iterate through once.
-  
-  Example:
-
-  ```
-  numbers = [1,2,3,4,5]
-  letters = ['a','b','c','d','e']
-  for number,letter in zip(numbers, letters):
-    print(number, letter)
-  ```
-    
-  Output:
-   ```
-   1 a
-   2 b    
-   3 c
-   4 d
-   5 e
-   ```
-
-- `enumerate`
-
-  The enumerate function is superbly useful as it returns both the index number of elements in a list and the element values themselves in one line. 
-  
-  As an example:
-  
-  ```
-  letters = ['a','b','c','d','e']
-  for index, letter in enumerate(letters):
-    print(index, letter)
-   ```
-    
-   Output:
-    ```
-      0 a
-      1 b
-      2 c
-      3 d
-      4 e
-    ```
-
- 
-  
-2. Managing data types
-- `list((data))`
-- `np.array((data, dtype=int))`
-- `np.array((data, dtype=np.float64))`
-
-
-
-
 
 # Geographic information systems (GIS)
-[QGIS](https://www.qgis.org/en/site/) is a great tool for working with spatial data, like rasters and shapefiles.  It's free and has a lot of capability.
+[QGIS](https://www.qgis.org/en/site/) is a great tool for working with spatial data, like rasters and shapefiles.  It's free and has a lot of capability.  
+QGIS 3.20.3 - Odense is currently installed on the server. To run it, you will need to:
 
-# Using Kennicott
+1. SSH with the -Y flag **from within the server**: `ssh -Y USERNAME@kennicott.ibest.uidaho.edu`;
+2. Run QGIS with Singularity: `singularity run --bind /data:/data /data/singularity/qgis.focal.sif`; 
+3. Profit.
 
-## Accessing Kennicott through a web browser
+Some plugins are already installed (e.g. [Profile Tool](https://github.com/PANOimagen/profiletool), [QProf](https://github.com/mauroalberti/qProf), [QuickMapServices](https://github.com/nextgis/quickmapservices), [QChainage](https://github.com/mach0/qchainage)). Unfortunately, Licensed plugins such as [LAStools](https://github.com/rapidlasso/LAStoolsPluginQGIS3) will not work, and [Wine](https://www.winehq.org/) is not installed on the server.
 
-1. In a web browser, navigate to https://kennicott.ibest.uidaho.edu/vnc
-2. Click "Connect" in the center of the page. 
-3. From the dropdown menu, choose "Other..."
-4. In the next box, enter your username without the @kennicott... suffix (for example, I would enter `cmiele`).
-5. Enter your password and hit "Log in." 
+Note that, while the software runs smoothly when SSHing from the university network, it will be a bit laggy when accessing remotely via a VPN.
 
-This will take you to a desktop-style interface with Kennicott. By clicking the black square icon at the bottom ("Terminal Emulator"), you can now access Kennicott through the command line. 
-
-## Coding in Kennicott
-
-To access a Python interface like Spyder or Jupyter Lab, first specify an environment. It may be useful to clone one of Kennicott's existing environments and work from that cloned environment. This way, you're free to modify (or even break) your own cloned environment without impacting anyone else. For example, rather than using the environment "spatialenv_yml," I have created a clone of this environment, named "chrisenv." Now each time I log onto Kennicott, I write `source activate chrisenv` to activate this environment. Typing `spyder` then opens a Spyder interface, from which you can write, run, and save scripts. 
 
