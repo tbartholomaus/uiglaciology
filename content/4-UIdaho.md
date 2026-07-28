@@ -12,7 +12,8 @@ Below is a list of tasks and activities that will help keep your time in grad sc
 - Complete mandatory trainings on Canvas (TA/RA, Defensive Driving, Lab Safety, Safety Matters, etc.).
     - You should be automatically enrolled, however contact Renee Jensen-Hasfurther in the Department front office or COGS if there are any concerns.
 - Graduate students should register for 12 or more credits total, each semester.  A minimum of 9 credits each term is necessary to maintain full-time student status, which is key for RA and TA appointments and visa requirements for international students.
-    - Work with Tim to build a class schedule/outline.
+    - Work with Tim to build a class schedule/outline. See all your degree requirements in the [Degree Audit page](https://dworks.uidaho.edu/dashboard?as-student=true). From the same webpage, you can switch to the "Plans" tab (in the top-left corner) to create a new study plan, where you will add the classes you plan to take each semester.Study plans will need to be officially approved and "activated".
+    - Up to 5 thesis credits and up to 40 dissertation credits can be transfered from your master's towards your PhD! This can reduce your required course load and leave more time for research. Discuss this option with Tim, and ask Renee how to set this up in your study plan. 
     - Fall term registration opens in April, see [schedule](https://www.uidaho.edu/registrar/registration/schedule). Registration for classes is through [Banner](https://banner.uidaho.edu/StudentRegistrationSsb/ssb/registration).
     - Keep in mind different classes are worth different amounts of credits and certain courses are necessary for your degree.
     - Remember to contact Renee for permission to adjust credits for your GEOL 500 or 600 Research course with Tim to fulfill remaining credit requirements. 
@@ -52,8 +53,9 @@ If you are an international student who wants to drive, you will need to apply f
 - Before you start, send Renee a Department Offer Letter template for the Social Security Number Application found as "Letter Template for Social Security Number Process for Internationa Students" under "Recruitment Letter Templates" in [HR forms](https://www.uidaho.edu/human-resources/forms). Pick up the signed document from her office once complete. 
 - Visit the International Programs Office (Living Learning Community Building #3) with your new department employment offer, passport, I-94, Vandal #, and any other supporting documentation for an new copy of your active I-20 and to get a stamp on your offer letter (this could take weeks). You may need to make an appointment, try visiting their advising [tab](https://www.uidaho.edu/academics/ipo/current-international-students/immigration-advising).
 - Once you have the following documents: stamped employment offer, I-94, I-20/Visa, and Passport - submit an application for a Social Security Number using this [request form](https://secure.ssa.gov/ossnap/public/landingOSsnap). You can then visit the security administation office in Lewiston (1617 19th Ave, Lewiston, ID 83501) to complete the process. The IPO also has an official visit campus during the beginning of fall semester.
-- As you travel in and out of the US, your I-20 becomes an essential travel document. Make sure you always have an up-to-date physical copy with you. 
-- If you have questions, concerns, or at just generally stressed out during the process, contact Tim, the [graduate admissions office](mailto:gadms@uidaho.edu) or the [International Programs Office](ipo@uidaho.edu). All will be more than happy to provide support.   
+- As you travel in and out of the US, your I-20 becomes an essential travel document. Make sure you always have an up-to-date physical copy with you.
+- Start taking note of every time you enter and leave the US because you will have to state the exact dates of entrance and exit every time you file your taxes. A good method is to keep them in a document in a "US taxes" folder on your computer. 
+- If you have questions, concerns, or are just generally stressed out during the process, contact Tim, the [graduate admissions office](mailto:gadms@uidaho.edu) or the [International Programs Office](ipo@uidaho.edu). All will be more than happy to provide support.   
 
 ## Fun tips for settling into Moscow
 - There are various grocery stores in Moscow and Pullman. WinCo is open 24/7 and often offers the most extensive selection at the best price. 
@@ -88,15 +90,15 @@ If you are an international student who wants to drive, you will need to apply f
 
 ## Graduating
 - Apply to graduate.
-- Format your thesis carefully.
+- Format your thesis carefully. A LaTeX template exists, which may save you a lot of time and frustration.
 
 --- 
 
 ## Income Taxes<a name="Taxes"></a>
 
 You will be paying both _state_ and _federal_ taxes on your US-based TA and/or RA income. As an international student, you are considered a _non-resident_ for tax purposes. 
-Typically, the university will withhold a percentage of your stipend each pay period which goes towards paying your taxes at the end of the tax year. This withholding is just an estimation, though, and sometimes you will need to pay more on top of that or receive a _tax return_ if too much was withheld. Additionally, depending on the country you come from, you may have specific _tax treaties_ that modify the amount of taxs that you have to pay and your withholding settings. 
-The University of Idaho offers a free subscription to a tax software (SprinTax, similar to TurboTax but for international people). While neither your supervisor, HR, the department administrator, nor this website can legally give you any tax-related advice, the University of Idaho's School of Law holds a yearly **Tax Clinic** for international students. 
+Typically, the university will withhold a percentage of your stipend each pay period which goes towards paying your taxes at the end of the tax year. This withholding is just an estimation, though, and sometimes you will need to pay more on top of that or receive a _tax return_ if too much was withheld. Additionally, depending on the country you come from, you may have specific _tax treaties_ that modify the amount of taxes that you have to pay and your withholding settings. 
+The University of Idaho offers a free subscription to a tax software (SprinTax, similar to TurboTax but for international people). While neither your supervisor, HR, the department administrator, nor this website can legally give you any tax-related advice, the University of Idaho's School of Law holds a yearly **Tax Clinic** for international students.
 Once you are settled in, it is highly recommended that you do the following well in advance before taxes are due (usually mid-April of the next year):
 - Check the dates of --and attend-- the Tax Clinic (usually held a few months before taxes are due, ask IPO if you can't find info about this free clinic);
 - Check your W-4, i.e. your Withholding Certificate, to ensure that the right amount of money is being withheld from your stipend each month. Use any online tax extimator to estimate how much that will be on your first year, then use your first tax returns info to refine that for all next years. NOTA BENE: tax withholdings do not influence how much tax you owe, it simply allows you to avoid owing thousands of dollars all at once at the end of the year.
@@ -106,7 +108,7 @@ Once you are settled in, it is highly recommended that you do the following well
 While living/studying/working in Moscow is likely to be great experience, moving to the US can be pretty daunting. Below is a list with tips for international students to navigate the visa process, and to getting set up in Idaho. Do be aware that this list is non-comprehensive.  The steps may change, and there might be extra (or less) steps depending on your country of origin.
 
 - Make sure you save your letters of acceptance, these are also available later in your [status portal](https://futurevandals.uidaho.edu/account/login?r=https%3a%2f%2ffuturevandals.uidaho.edu%2fapply%2fstatus).
-- If you are going to be working as a graduate and/or teaching assistant, you will get an official offer letter from the Department of Geology. This too is important so make sure you save it as well. 
+- If you are going to be working as a graduate and/or teaching assistant, you will get an official offer letter from the Department of Earth and Spatial Sciences. This too is important so make sure you save it as well. 
 - [Graduate admissions](graduateadmissions@uidaho.edu) will get in touch with you about issuing an I-20. Follow their instructions as quickly as possible.
 - Once your I-20/equivalent has been issued, visit the [SEVP website](https://www.fmjfee.com/i901fee/index.html) and pay the I-901 SEVIS fee (even Canadians who do not have Visas). Remember to copy the record number and print off the proof of payment for when you cross the border and apply for your Visa.
 Also fill in the [DS-160 form online](https://ceac.state.gov/genniv/). Make sure you select your country of permanent residence, and not simply the consulate closest to you or wherever you might be studying at the moment.
@@ -125,4 +127,8 @@ Also fill in the [DS-160 form online](https://ceac.state.gov/genniv/). Make sure
 - Printed offer letter from UI department
 - Proof of additional financials (if applicable for education costs)
 - Proof of residence to home country and new address in Moscow (ie. lease)
-Please keep in mind your home country or program may have additional requirements. For example, if you are crossing from Canada with pets, plants, or personal belongings there are additional forms necessary. Feel free to reach out to current/previous students for questions about that process. 
+Please keep in mind your home country or program may have additional requirements. For example, if you are crossing from Canada with pets, plants, or personal belongings there are additional forms necessary. Feel free to reach out to current/previous students for questions about that process.
+
+**Once you are approaching your expected graduation date...**
+- Ensure that you are on track to graduate on time before your VISA expires. If you are on an F-1 VISA and for some reason your work has been delayed and you need to extend your stay in the US, you MUST request an I-20 extension with IPO.
+- **Careful**: As of July of 2026, F-1 admission and extension regulations have changed and are stricter! Being "late" with your degree may no longer be ruled an acceptable reason to extend your I-20. Additionally, the post-completion departure "grace period" for F-1 students is shortened from 60 days to 30 days after your I-20 expiration date. Stay in touch with IPO about any expected or unexpected changes to your degree timing, and plan accordingly. 
